@@ -8,7 +8,7 @@
 
 A fully responsive GPS tracking mobile app for motorcyclist looking for a metered/ unmetered parking spot in San Francisco, CA. Developed so map automatically finds the users location and updates as they ride around looking for parking. Network calls: Google Maps & Places API as well as the San Francisco Data API. Created App icon in Sketch 3.
 
-[Link to view iTunes Preview](https://itunes.apple.com/us/app/motoparking/id1240639752?mt=8)
+Link to [App Store](https://itunes.apple.com/us/app/motoparking/id1240639752?mt=8)
 
 ### Technologies & Tools
 
